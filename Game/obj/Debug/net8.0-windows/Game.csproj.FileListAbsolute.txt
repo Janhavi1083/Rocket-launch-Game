@@ -1,0 +1,17 @@
+E:\vs\Game\Game\bin\Debug\net8.0-windows\Game.exe
+E:\vs\Game\Game\bin\Debug\net8.0-windows\Game.deps.json
+E:\vs\Game\Game\bin\Debug\net8.0-windows\Game.runtimeconfig.json
+E:\vs\Game\Game\bin\Debug\net8.0-windows\Game.dll
+E:\vs\Game\Game\bin\Debug\net8.0-windows\Game.pdb
+E:\vs\Game\Game\obj\Debug\net8.0-windows\Game.Form1.resources
+E:\vs\Game\Game\obj\Debug\net8.0-windows\Game.csproj.GenerateResource.cache
+E:\vs\Game\Game\obj\Debug\net8.0-windows\Game.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\Game\Game\obj\Debug\net8.0-windows\Game.AssemblyInfoInputs.cache
+E:\vs\Game\Game\obj\Debug\net8.0-windows\Game.AssemblyInfo.cs
+E:\vs\Game\Game\obj\Debug\net8.0-windows\Game.csproj.CoreCompileInputs.cache
+E:\vs\Game\Game\obj\Debug\net8.0-windows\Game.dll
+E:\vs\Game\Game\obj\Debug\net8.0-windows\refint\Game.dll
+E:\vs\Game\Game\obj\Debug\net8.0-windows\Game.pdb
+E:\vs\Game\Game\obj\Debug\net8.0-windows\Game.genruntimeconfig.cache
+E:\vs\Game\Game\obj\Debug\net8.0-windows\ref\Game.dll
+E:\vs\Game\Game\obj\Debug\net8.0-windows\Game.Properties.Resources.resources
